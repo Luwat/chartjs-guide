@@ -1,0 +1,47 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Environment variables
+.env
+.env.local
+
+# Logs
+logs/
+*.log
+
+# Editor & IDE files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Build outputs
+dist/
+build/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Next.js
+.next/
+
+# React Native
+.expo/
+.expo-shared/
+
+# macOS system files
+*.DS_Store
+
+# Linux system files
+*.swp
+
+# Windows system files
+Thumbs.db
+
+# Miscellaneous
+coverage/
+*.bak
+*.swp
